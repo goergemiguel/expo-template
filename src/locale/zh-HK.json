@@ -1,0 +1,14 @@
+{
+	"homepage": "主頁",
+	"sign_up_with_google": "用谷歌註冊",
+	"has_account": "我已經有一個帳戶",
+	"login_with_google": "用谷歌登錄",
+	"no_account": "註冊新賬號",
+	"languages": "語言",
+	"settings": "設置",
+	"account": "帳戶",
+	"email": "電郵",
+	"firstName": "名",
+	"lastName":"姓",
+	"hourlyRate": "每小時收費"
+}

@@ -1,0 +1,14 @@
+{
+	"homepage": "Homepage",
+	"sign_up_with_google": "Sign up with google",
+	"has_account": "I already have an account",
+	"login_with_google": "Login with google",
+	"no_account": "Sign up for an account",
+	"languages": "Languages",
+	"settings": "Settings",
+	"account": "Account",
+	"email": "Email",
+	"firstName": "First Name",
+	"lastName":"Last Name",
+	"hourlyRate": "Hourly Rate"
+}
